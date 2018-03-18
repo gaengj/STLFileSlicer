@@ -1,0 +1,11 @@
+# Python cache
+__pycache__
+
+# Vim swap files
+*.swp
+
+# Test STL files
+data
+
+# Default output directory
+output
